@@ -1,0 +1,22 @@
+{
+  "name": "react-three-fiber",
+  "dependencies": {
+    "@react-three/drei": "9.51.22",
+    "@react-three/fiber": "8.10.0",
+    "@types/three": "0.148.0",
+    "leva": "^0.9.34",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "three": "0.148.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

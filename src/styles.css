@@ -1,0 +1,13 @@
+body {
+  background-color: #4b4b4b;
+  margin: 0;
+}
+
+.nfsu2 {
+  margin: 24px;
+  pointer-events: none;
+  position: fixed;
+  user-select: none;
+  width: 250px;
+  z-index: 1;
+}
